@@ -32,6 +32,7 @@ I analyzed sales, order count, average order value, refund rate, loyalty program
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/e0daf05d-7c0a-42b6-a8a1-f32e49e2aa46) ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/9a1ea4ca-2f0d-4a33-b057-5fa4e7508402)      
 
 **Average Order Value:** Average order value has returned to its pre-pandemic level of $230 overall. 2020 saw a jump of 31% ($300) while 2021 fell 15% ($255). This also lends credence to the hypothesis that our sales are returning to pre-pandemic levels.   
+
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/cd4530d4-a799-42fd-849b-7f5a70161aaa)   
 
 
