@@ -57,7 +57,7 @@ Webcams have the highest percentage of the email marketing channel (70% of all w
 ### Loyalty Program
 Based on the growth of the program thus far, I recommend that we keep the program and focus our efforts on products that have the lowest participation in the program (which are also our largest ticket items: laptops & monitors). 
 
-# Acknowledgments/References
+## Acknowledgments/References
 Header photo by [Andreas Palmer](https://unsplash.com/@andipalmer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-beside-monitor-on-desk-UJSjxFNLFWY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
   
 
