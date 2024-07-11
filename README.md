@@ -14,8 +14,7 @@ I created a dashboard within Excel to gather sales, product, and marketing data 
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/e6ab624c-d422-45d7-b534-35a4798cfa4d)
 
 ## Overview
-The ERD for this data:
-![ERD](./assets/EList_ERD.png)
+The ERD for this data is located [here](./assets/EList_ERD.png)
 
 Between 2019 and 2022, 108,094 orders were placed, netting $28 million in sales. Sales peaked in 2020, with $10.1 million across 33,000 sales and have been dropping since; however, this drop brings 2022 more in line with sales in 2019 ($3.8m), possibly signaling a normalization of sales post-pandemic. Further insight will be gleaned by including pre-2019 data and 2023 data for a more complete picture. 
 
