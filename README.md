@@ -24,29 +24,35 @@ I analyzed sales, order count, average order value, refund rate, loyalty program
 ### Overall Sales Analysis
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/36177e68-c9bb-44d7-a007-58b7fd3f2cc4)
 
-While E-List experienced sales growth of 162% and order quantity growth of 101% from 2019 to 2020, the following year saw a sales dollar drop of 10% (even though order quantities rose by 6%), and 2021 to 2022 had a precipitous drop of -46% in sales and -40% in order totals.   
+
+**Yearly Growth:** While E-List experienced sales growth of 162% and order quantity growth of 101% from 2019 to 2020, the following year saw a sales dollar drop of 10% (even though order quantities rose by 6%), and 2021 to 2022 had a precipitous drop of -46% in sales and -40% in order totals.   
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/e0daf05d-7c0a-42b6-a8a1-f32e49e2aa46)   
 
-Growth analysis at the more granular monthly level shows consistent seasonal trends - Elist always experiences a major drop in February and another in October. These months bookend the holiday shopping period of November-December.   
+
+**Monthly Growth:** Growth analysis at the more granular monthly level shows consistent seasonal trends - Elist always experiences a major drop in February and another in October. These months bookend the holiday shopping period of November-December.   
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/9a1ea4ca-2f0d-4a33-b057-5fa4e7508402)   
 
-Average order value has returned to its pre-pandemic level of $230 overall. 2020 saw a jump of 31% ($300) while 2021 fell 15% ($255). This also lends credence to the hypothesis that our sales are returning to pre-pandemic levels.   
+
+**Average Order Value:** Average order value has returned to its pre-pandemic level of $230 overall. 2020 saw a jump of 31% ($300) while 2021 fell 15% ($255). This also lends credence to the hypothesis that our sales are returning to pre-pandemic levels.   
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/cd4530d4-a799-42fd-849b-7f5a70161aaa)   
+
 
 ### Refund Rates
 Consistently, our most-refunded products are laptops (both Apple and Samsung).   
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/16d17165-b57f-4536-a509-4cb8ca25c9ad)
 
+
 ### Product Analysis
 Our bestselling product year over year in terms of revenue is the 27 inch 4K gaming monitor, followed closely by Apple AirPods. In terms of number of orders, Apple AirPods are our most-purchased product. On the other end of the scale, we've only sold 27 pairs of Bose headphones in 3 years. Product sales patterns remain similar across 2019, 2021, and 2022; the one exception to this is MacBooks, which saw a sales spike during the pandemic. 
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/7f2971ed-20d0-42ae-91e4-66822640ca1f)
+
 
 ### Loyalty Program Performance
 Examination of the loyalty program year over year shows that while it got off to a shaky start, 55% of orders that were placed in 2022 came in under the loyalty program, with program participation showing positive growth in 2020, 2021, and 2022.
 
 ## Recommendations
 ### Seasonality
-As we experience sales drops on each side of the holiday shopping season, we should look at what promotions we can offer during those times in order to boost sales. 
+As we experience sales drops on each side of the holiday shopping season, we should look at what promotions we can offer during those times in order to boost sales.
 
 ### Product Inventory
 I do not recommend restocking the Bose headphones. Depending on profit margin and cost to hold in inventory, I recommend looking at including these as a bonus for ordering under the loyalty program or as a bonus with other orders, in order to make room for better-selling products on our shelves. 
@@ -56,6 +62,7 @@ Webcams have the highest percentage of the email marketing channel (70% of all w
 
 ### Loyalty Program
 Based on the growth of the program thus far, I recommend that we keep the program and focus our efforts on products that have the lowest participation in the program (which are also our largest ticket items: laptops & monitors). 
+
 
 ## Acknowledgments/References
 Header photo by [Andreas Palmer](https://unsplash.com/@andipalmer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") on [Unsplash](https://unsplash.com/photos/turned-on-macbook-pro-beside-monitor-on-desk-UJSjxFNLFWY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
