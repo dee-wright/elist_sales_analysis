@@ -9,6 +9,7 @@ Founded in 2018, E-List is an e-commerce company that sells popular electronics 
 
 ## Dashboard
 I created a dashboard within Excel to gather sales, product, and marketing data in one place. This dashboard can be filtered by year, region, and product, in order to provide more granular insight as needed.
+
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/83ae6c38-ca6f-4c42-ac5f-778967754341)   
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/fd1a8a4b-1cc2-41f5-a33e-8ee4c508e370)   
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/e6ab624c-d422-45d7-b534-35a4798cfa4d)
