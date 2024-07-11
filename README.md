@@ -4,7 +4,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/elist_sales_analysis?color=5ECCF3)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/elist_sales_analysis?color=A7EA52)
 
-# E-List 
+# E-List E-Commerce Sales Analysis (2019-2022)
 Founded in 2018, E-List is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, E-List sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and Lenovo.
 
 ## Dashboard
