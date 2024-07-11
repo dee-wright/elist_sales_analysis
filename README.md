@@ -26,12 +26,10 @@ I analyzed sales, order count, average order value, refund rate, loyalty program
 
 
 **Yearly Growth:** While E-List experienced sales growth of 162% and order quantity growth of 101% from 2019 to 2020, the following year saw a sales dollar drop of 10% (even though order quantities rose by 6%), and 2021 to 2022 had a precipitous drop of -46% in sales and -40% in order totals.   
-![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/e0daf05d-7c0a-42b6-a8a1-f32e49e2aa46)   
 
+**Monthly Growth:** Growth analysis at the more granular monthly level shows consistent seasonal trends - Elist always experiences a major drop in February and another in October. These months bookend the holiday shopping period of November-December. 
 
-**Monthly Growth:** Growth analysis at the more granular monthly level shows consistent seasonal trends - Elist always experiences a major drop in February and another in October. These months bookend the holiday shopping period of November-December.   
-![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/9a1ea4ca-2f0d-4a33-b057-5fa4e7508402)   
-
+![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/e0daf05d-7c0a-42b6-a8a1-f32e49e2aa46) ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/9a1ea4ca-2f0d-4a33-b057-5fa4e7508402)      
 
 **Average Order Value:** Average order value has returned to its pre-pandemic level of $230 overall. 2020 saw a jump of 31% ($300) while 2021 fell 15% ($255). This also lends credence to the hypothesis that our sales are returning to pre-pandemic levels.   
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/cd4530d4-a799-42fd-849b-7f5a70161aaa)   
