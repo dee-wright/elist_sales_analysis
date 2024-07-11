@@ -42,7 +42,7 @@ Consistently, our most-refunded products are laptops (both Apple and Samsung).
 
 
 ### Product Analysis
-Our bestselling product year over year in terms of revenue is the 27 inch 4K gaming monitor, followed closely by Apple AirPods. In terms of number of orders, Apple AirPods are our most-purchased product. On the other end of the scale, we've only sold 27 pairs of Bose headphones in 3 years. Product sales patterns remain similar across 2019, 2021, and 2022; the one exception to this is MacBooks, which saw a sales spike during the pandemic. 
+Our bestselling product year over year in terms of revenue is the 27 inch 4K gaming monitor, followed closely by Apple AirPods. In terms of number of orders, Apple AirPods are our most-purchased product. On the other end of the scale, we've only sold 27 pairs of Bose headphones in 3 years. Product sales patterns remain consistent across 2019, 2021, and 2022; the one exception to this is MacBooks, which saw a sales spike during the pandemic. 
 
 ![image](https://github.com/dee-wright/elist_sales_analysis/assets/149963805/7f2971ed-20d0-42ae-91e4-66822640ca1f)
 
