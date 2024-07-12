@@ -1,4 +1,4 @@
-![Header](./assets/elist_header.jpg)
+![Header](./assets/elist_header.png)
 
 ![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-108%2C095-red?color=FF8021)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/elist_sales_analysis?color=5ECCF3)
