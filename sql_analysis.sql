@@ -68,7 +68,7 @@ LEFT JOIN core.geo_lookup
 GROUP BY region, product_name)
 
 SELECT *, 
-	row_number() over (PARTITION BY region ORDER BY total_orders DESC) AS order_ranking
+  row_number() over (PARTITION BY region ORDER BY total_orders DESC) AS order_ranking
 FROM sales_by_product
 QUALIFY row_number() over (PARTITION BY region ORDER BY total_orders DESC) = 1;
 
